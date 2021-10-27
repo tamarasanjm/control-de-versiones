@@ -8,8 +8,10 @@ Si tienes un piano que te sobre por casa, puedes lanzarlo (es lo más lógico de
 
 
 ## 1. Presentación ##
+
 ~~~
 A continuación les presentamos una catapulta medieval capaz de lanzar cualquier tipo de objeto, independientemente de su tamaño y peso.
+
 ~~~
 ## 2. Instrucciones Operacionales: ##
 
@@ -46,6 +48,8 @@ A continuación les presentamos una catapulta medieval capaz de lanzar cualquier
 * ir a una distancia segura y tire del cable para disparar el trebuchet.
 
 ## 3. Agradecimientos ##
+
 ~~~
 Un especial agradecimiento a todo el equipo de Factoria 5 por Bcn Fem Tech y a todas nuestras compañeras de clase.
+
 ~~~
