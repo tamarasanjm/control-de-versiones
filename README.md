@@ -1,18 +1,18 @@
 README.md
 
-#HE AQUÍ... ¡LA GRAN LANZADERA DE 20 M!#
+# HE AQUÍ... ¡LA GRAN LANZADERA DE 20 M! #
 ~~~
 Si tienes un piano que te sobre por casa, puedes lanzarlo (es lo más lógico del mundo). Aquí tienes con qué.
 ~~~
 ![trebuchet medieval](/img/catapulta.jpeg "Trebuchet Medieval")
 ~~~
 
-##1. Presentación:##
+## 1. Presentación ##
 ~~~
 A continuación les presentamos una catapulta medieval capaz de lanzar cualquier tipo de objeto, independientemente de su tamaño y peso.
 ~~~
-##2. Instrucciones Operacionales:##
-~~~
+## 2. Instrucciones Operacionales: ##
+~~ 
 * cortar los montantes de 2 por 4 los siguientes: dos de 31 pulgadas de largo, dos 20-pulgadas largo, dos 25-pulgadas de largo, dos de 8 pulgadas, 40 pulgadas un largo.
 
 * cavar un agujero de 1 pulgada en los centro 1,5 pulgadas de la parte superior de cada una de las piezas de 25 pulgadas. Desde el mismo extremo de la pieza de 40 pulgadas, corte un agujero de 1 pulgada 8 pulgadas desde el extremo y un agujero de 1/2 pulgada, 1.5 pulgadas desde el extremo.
@@ -45,7 +45,7 @@ A continuación les presentamos una catapulta medieval capaz de lanzar cualquier
 
 * ir a una distancia segura y tire del cable para disparar el trebuchet.
 
-##3. Agradecimientos##
+## 3. Agradecimientos ##
 ~~~
 Un especial agradecimiento a todo el equipo de Factoria 5 por Bcn Fem Tech y a todas nuestras compañeras de clase.
 ~~~
