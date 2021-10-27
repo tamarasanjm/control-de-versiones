@@ -12,7 +12,7 @@ Si tienes un piano que te sobre por casa, puedes lanzarlo (es lo más lógico de
 A continuación les presentamos una catapulta medieval capaz de lanzar cualquier tipo de objeto, independientemente de su tamaño y peso.
 
 ## 2. Instrucciones Operacionales: ##
-~~ 
+
 * cortar los montantes de 2 por 4 los siguientes: dos de 31 pulgadas de largo, dos 20-pulgadas largo, dos 25-pulgadas de largo, dos de 8 pulgadas, 40 pulgadas un largo.
 
 * cavar un agujero de 1 pulgada en los centro 1,5 pulgadas de la parte superior de cada una de las piezas de 25 pulgadas. Desde el mismo extremo de la pieza de 40 pulgadas, corte un agujero de 1 pulgada 8 pulgadas desde el extremo y un agujero de 1/2 pulgada, 1.5 pulgadas desde el extremo.
