@@ -8,7 +8,8 @@
 
 ## 1. Presentación:
 ~~~
-A continuación les presentamos una catapulta medieval capaz de lanzar cualquier tipo de objeto, independientemente de su tamaño y peso.
+A continuación les presentamos una catapulta medieval capaz de lanzar cualquier tipo de objeto,
+independientemente de su tamaño y peso.
 ~~~
 
 ## 2. Instrucciones Operacionales:
