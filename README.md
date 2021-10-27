@@ -49,5 +49,3 @@ A continuación les presentamos una catapulta medieval capaz de lanzar cualquier
 ~~~
 Un especial agradecimiento a todo el equipo de Factoria 5 por Bcn Fem Tech y a todas nuestras compañeras de clase.
 ~~~
->>>>>>> 64834602a16805a1b94fc917ea215ddb5dd59e93
-~~~
