@@ -49,5 +49,6 @@ independientemente de su tamaño y peso.
 ## 3.Agradecimientos
 
 ~~~
-Un especial agradecimiento a todo el equipo de Factoria 5 por Bcn Fem Tech y a todas nuestras compañeras de clase.
+Un especial agradecimiento a todo el equipo de Factoria 5 por Bcn Fem Tech
+y a todas nuestras compañeras de clase.
 ~~~
