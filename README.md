@@ -39,3 +39,7 @@ A continuación les presentamos una catapulta medieval capaz de lanzar cualquier
 
 •  ir a una distancia segura y tire del cable para disparar el trebuchet.
 ~~~
+##Agradecimientos##
+~~~
+Un especial agradecimiento a todo el equipo de Factoria 5 por Bcn Fem Tech y a todas nuestras compañeras de clase.
+~~~
