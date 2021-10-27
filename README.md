@@ -4,7 +4,7 @@ README.md
 ~~~
 Si tienes un piano que te sobre por casa, puedes lanzarlo (es lo más lógico del mundo). Aquí tienes con qué.
 ~~~
-![trebuchet medieval](img/catapulta.jpeg"Trebuchet Medieval")
+![trebuchet medieval](/img/catapulta.jpeg "Trebuchet Medieval")
 ~~~
 
 ##1. Presentación:##
